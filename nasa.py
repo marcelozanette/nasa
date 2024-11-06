@@ -4,7 +4,7 @@ import os
 from datetime import datetime, timedelta
 
 # Substitua 'SUA_CHAVE_DE_API_AQUI' pela sua chave de API da NASA
-api_key = 'fnKD61B5ruwETmo2klaQTNpZajzdDHlfRfvsPfS5'
+api_key = ''
 
 
 def obter_dados_api(url):
