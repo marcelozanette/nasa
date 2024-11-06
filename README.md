@@ -1,4 +1,4 @@
-##Coleta de fotos da API da NASA
+## Coleta de fotos da API da NASA
 ### Descrição
   Esse script foi projetado para coletar imagens coletadas pelos rovers Curiosity, Opportunity e Spirit da NASA em Marte via API. Essa coleta é filtrada pela data 
 corrente day-2 salvandao as em um diretório local.
@@ -16,7 +16,7 @@ corrente day-2 salvandao as em um diretório local.
     -rover_launch_date,
     -rover_status.
 
-###Câmeras Rover
+### Câmeras Rover
 ![image](https://github.com/user-attachments/assets/12f7a188-46f8-41b8-aeef-eeefa4d01133)
 
 
