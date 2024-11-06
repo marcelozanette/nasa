@@ -17,7 +17,27 @@ corrente day-2 salvandao as em um diretório local.
     -rover_status.
 
 ### Câmeras Rover
+
 ![image](https://github.com/user-attachments/assets/12f7a188-46f8-41b8-aeef-eeefa4d01133)
+
+### Consultando pelo sol marciano
+
+![image](https://github.com/user-attachments/assets/4ba53504-94fb-4a34-a102-012d28277328)
+
+### Consultas de exemplo
+https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key=DEMO_KEY
+
+
+
+https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&camera=fhaz&api_key=DEMO_KEY
+
+https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&page=2&api_key=DEMO_KEY
+
+### Consultando por data da Terra
+
+![image](https://github.com/user-attachments/assets/ce05ad4c-6896-42d4-8655-5e4cf1236d3d)
+
+
 
 
 
