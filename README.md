@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/95111ce5-3741-45f0-8a46-14632bce740d)## Coleta de fotos da API da NASA
 ### Descrição
   Esse script foi projetado para coletar imagens coletadas pelos rovers Curiosity, Opportunity e Spirit da NASA em Marte via API. Essa coleta é filtrada pela data 
 corrente day-2 salvandao as em um diretório local.
